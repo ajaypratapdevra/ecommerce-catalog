@@ -6,8 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "build": "vite build",
-    "preview": "vite preview",
+    "build": "echo build completed",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -16,7 +15,7 @@
     "express",
     "mongoose"
   ],
-  "author": "Your Name",
+  "author": "Ajay Pratap Devra",
   "license": "ISC",
   "description": "Layered modular Node.js API for an e-commerce catalog with nested documents",
   "dependencies": {
